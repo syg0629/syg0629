@@ -10,7 +10,7 @@
 <br/>
 
 ### Tech Stack
-<p><img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-white?style=flat&logo=React&logoColor=61DAFB"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/></p>
+<p><img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-white?style=flat&logo=React&logoColor=61DAFB"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 
 <p><img src="https://img.shields.io/badge/-C%23-%23239120?style=flat&logo=Csharp&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/></p>
 <br/>
