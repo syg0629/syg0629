@@ -7,6 +7,17 @@
 
 <br/>
 
+<a href="https://www.linkedin.com/in/%EC%A7%80%EC%9C%A0-%EA%B0%95-6a43b4285/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" alt="linkedin logo"  />
+</a>&nbsp;&nbsp;
+
+<a href="https://cloudy-b.tistory.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white" alt="tistory logo"  />
+</a>
+
+<br/>
+<br/>
+
 ### Tech Stack
 <p>
   <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;&nbsp;
