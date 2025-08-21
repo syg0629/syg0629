@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" alt="linkedin logo"  />
 </a>&nbsp;&nbsp;
 
-<a href="https://cloudy-b.tistory.com/" target="_blank">
+<a href="https://syg0629.tistory.com/" target="_blank">
   <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white" alt="tistory logo"  />
 </a>
 
